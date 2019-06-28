@@ -1,3 +1,5 @@
+https://wwdc.io is highly recommended for watching the videos on MacOS
+
 # Metal and Graphics
 - [(2019) Delivering Optimized Metal Apps and Games](https://developer.apple.com/wwdc19/606)
 - [(2019) Modern Rendering with Metal](https://developer.apple.com/wwdc19/601)
