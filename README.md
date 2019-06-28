@@ -17,5 +17,13 @@
 # Optimization and Debugging
 
 # Energy and Power Usage
+- [(2019) Improving Battery Life and Performance](https://developer.apple.com/wwdc19/417)
+- [(2018) What’s New in Energy Debugging](https://developer.apple.com/wwdc18/228)
+- [(2017) Writing Energy Efficient Apps](https://developer.apple.com/wwdc17/238)
+- [(2016) Optimizing I/O for Performance and Battery Life](https://developer.apple.com/wwdc16/719)
+- [(2015) Debugging Energy Issues](https://developer.apple.com/wwdc15/708)
+- [(2015) Achieving All-day Battery Life](https://developer.apple.com/wwdc15/707)
 
 # AR and Machine Learning
+- [(2019) Creating Great Apps Using Core ML and ARKit](https://developer.apple.com/wwdc19/228)
+- [(2019) Introducing ARKit 3](https://developer.apple.com/wwdc19/604)
