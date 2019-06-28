@@ -18,6 +18,7 @@
 
 # Energy and Power Usage
 - [(2019) Improving Battery Life and Performance](https://developer.apple.com/wwdc19/417)
+- [(2019) Designing for Adverse Network and Temperature Conditions](https://developer.apple.com/wwdc19/422)
 - [(2018) What’s New in Energy Debugging](https://developer.apple.com/wwdc18/228)
 - [(2017) Writing Energy Efficient Apps](https://developer.apple.com/wwdc17/238)
 - [(2016) Optimizing I/O for Performance and Battery Life](https://developer.apple.com/wwdc16/719)
