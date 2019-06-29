@@ -17,6 +17,12 @@ https://wwdc.io is highly recommended for watching the videos on MacOS
 - [Working with Metal: Overview](https://developer.apple.com/wwdc14/603)
 
 # Optimization and Debugging
+- [(2019) Debugging in Xcode 11](https://developer.apple.com/wwdc19/412)
+- [(2019) Getting Started with Instruments](https://developer.apple.com/wwdc19/411)
+- [(2019) LLDB: Beyond "po"](https://developer.apple.com/wwdc19/429)
+- [(2019) Developing a Great Profiling Experience](https://developer.apple.com/wwdc19/414)
+- [(2018) Advanced Debugging with Xcode and LLDB](https://developer.apple.com/wwdc18/412)
+- [(2018) Behind the Scenes of the Xcode Build Process](https://developer.apple.com/wwdc18/415)
 
 # Energy and Power Usage
 - [(2019) Improving Battery Life and Performance](https://developer.apple.com/wwdc19/417)
