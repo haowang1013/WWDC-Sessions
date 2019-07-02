@@ -15,6 +15,13 @@ https://wwdc.io is highly recommended for watching the videos on MacOS
 - [(2014) Working with Metal: Fundamentals](https://developer.apple.com/wwdc14/604)
 - [(2014) Working with Metal: Advanced](https://developer.apple.com/wwdc14/605)
 - [Working with Metal: Overview](https://developer.apple.com/wwdc14/603)
+## Additional Metal Resources from developer.apple.com
+- [Using Metal System Trace in Instruments to Profile Your App](https://developer.apple.com/documentation/metal/using_metal_system_trace_in_instruments_to_profile_your_app?language=objc)
+- [Optimizing Performance with Pipeline Statistics](https://developer.apple.com/documentation/metal/render_pipeline/optimizing_performance_with_pipeline_statistics?language=objc)
+- [Optimizing Performance with the Shader Profiler](https://developer.apple.com/documentation/metal/shader_authoring/optimizing_performance_with_the_shader_profiler?language=objc)
+- [Optimizing Performance with GPU Counters](https://developer.apple.com/documentation/metal/render_pipeline/optimizing_performance_with_gpu_counters?language=objc)
+- [Developing and Debugging Metal Shaders](https://developer.apple.com/documentation/metal/shader_authoring/developing_and_debugging_metal_shaders?language=objc)
+- [Enhancing Frame Capture by Using Labels](https://developer.apple.com/documentation/metal/frame_capture_debugging_tools/enhancing_frame_capture_by_using_labels?language=objc)
 
 # Optimization and Debugging
 - [(2019) Debugging in Xcode 11](https://developer.apple.com/wwdc19/412)
